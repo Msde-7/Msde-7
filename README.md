@@ -1,16 +1,16 @@
-# Hi, I’m Gabriel Shores  
+# Hi, I’m Gabriel Shores👋
 
-CS & Math Student at Indiana University | Cox & Luddy Scholar  
+CS & Math Student at Indiana University | Undergraduate Researcher | Cox & Luddy Scholar  
 Passionate about blending cutting-edge technology with meaningful problem-solving.  
 
 ---
 
 ## Skills & Tools  
 
-- **Languages**: Java (JUnit), Python (PyTorch, NumPy), C, SQL  
-- **Web**: React.js, TailwindCSS, JavaScript, HTML, CSS  
+- **Languages**: Java (JUnit), Python (PyTorch, NumPy), C, C++, C#, SQL  
+- **Web**: React.js, TailwindCSS, JavaScript, HTML, CSS, Flask  
 - **Mobile**: React Native, Android Studio  
-- **Tools**: Firebase, Tableau, Excel  
+- **Tools**: Firebase, AWS, Tableau, Excel, Git, Unix/Linux  
 
 ---
 
@@ -18,16 +18,17 @@ Passionate about blending cutting-edge technology with meaningful problem-solvin
 
 - **Lawgic**: Developing a platform to gamify LSAT prep with React, TailwindCSS, Firebase, and React Native.  
 - **Java Neural Network**: Built a scalable neural network from scratch, achieving 99.6% accuracy on MNIST digit recognition.  
-- **Eclipse Livestream**: Led live streaming for the Great American Solar Eclipse, reaching 3,000+ online viewers.  
-- **[Personal Website](https://gabeshores.com)**: Designed and built a custom portfolio to showcase projects and skills.  
+- **EduAdvisor AI**: Created a full-stack AI course planner using Gemini API; analyzed 100k+ records to guide scheduling.  
+- **Eclipse Livestream**: Led live streaming for the Great American Solar Eclipse, reaching 3,000+ online and 5,000+ in-person viewers. [Livestream](https://www.youtube.com/watch?v=r6A4q5nO0rY&ab_channel=2024TotalEclipseWebstreamsforIULuddy) 
+- **[Personal Website](https://gabeshores.com)**: Designed and built a custom portfolio to showcase projects and skills.
 
 ---
 
 ## Research & Experience  
 
-- **Math Cancer Lab**: Optimizing cell simulations using Python and C++ to advance cancer research.  
-- **Data Team Member**: Leveraged Python, Tableau, and Excel to drive engagement and analyze trends at IU's advising services.  
-- **Fintech @ IU**: Teaching 265+ members coding concepts and building tools like RESTful Discord bots to enhance club activities.  
+- **Math Cancer Lab**: Contributing to an open-source cell modeling project, optimizing simulations in Python and C++ to achieve up to 1000% speedups. 
+- **IU Advising Data Team**: Leveraged Python, Tableau, and Excel to boost advising engagement by over 100%.  
+- **Fintech @ IU**: Teaching 265+ members CS concepts; built and deployed bots interfacing with trading APIs via Discord and GroupMe.  
 
 ---
 
@@ -39,6 +40,7 @@ I love solving challenging problems, teaching others, and creating tools that ma
 
 ## Let’s Connect  
 
+- **Email**: gshores@iu.edu  
 - **Website**: [gabeshores.com](https://gabeshores.com)  
 - **LinkedIn**: [linkedin.com/in/gabriel-shores-379b81291](https://linkedin.com/in/gabriel-shores-379b81291)  
 - **GitHub**: [github.com/Msde-7](https://github.com/Msde-7)  
