@@ -19,7 +19,9 @@ Passionate about blending cutting-edge technology with meaningful problem-solvin
 - **Lawgic**: Developing a platform to gamify LSAT prep with React, TailwindCSS, Firebase, and React Native.  
 - **Java Neural Network**: Built a scalable neural network from scratch, achieving 99.6% accuracy on MNIST digit recognition.  
 - **EduAdvisor AI**: Created a full-stack AI course planner using Gemini API; analyzed 100k+ records to guide scheduling.  
-- **Eclipse Livestream**: Led live streaming for the Great American Solar Eclipse, reaching 3,000+ online and 5,000+ in-person viewers. [Livestream](https://www.youtube.com/watch?v=r6A4q5nO0rY&ab_channel=2024TotalEclipseWebstreamsforIULuddy) 
+- **[Eclipse Livestream](https://www.youtube.com/watch?v=r6A4q5nO0rY&ab_channel=2024TotalEclipseWebstreamsforIULuddy)**: Led live streaming for the Great American Solar Eclipse, reaching 3,000+ online and 5,000+ in-person viewers.
+- **Snake for Android**: Recreated the classic Snake game using Android Studio for mobile playability and design practice.  
+- **pySupp**: Weekly Python curriculum and codebase for Fintech @ IU, covering data analysis, machine learning, and automation techniques.  
 - **[Personal Website](https://gabeshores.com)**: Designed and built a custom portfolio to showcase projects and skills.
 
 ---
