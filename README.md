@@ -1,6 +1,6 @@
 # Hi, I’m Gabriel Shores👋
 
-CS & Math @ IUB | Math Cancer Lab Researcher | Fintech IU Director of Technology | CTO IU Student Gov
+CS & Math @ IUB | Math Cancer Lab Researcher | Fintech IU Director of Technology | IU Student Gov CTO 
 
 ---
 
