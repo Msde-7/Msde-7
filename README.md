@@ -4,15 +4,6 @@ CS & Math @ IUB | Math Cancer Lab Researcher | Fintech IU Director of Technology
 
 ---
 
-## Skills & Tools  
-
-- **Languages**: Java (JUnit), Python (PyTorch, NumPy), C, C++, C#, SQL  
-- **Web**: React.js, TailwindCSS, JavaScript, HTML, CSS, Flask  
-- **Mobile**: React Native, Android Studio  
-- **Tools**: Firebase, AWS, Tableau, Excel, Git, Unix/Linux  
-
----
-
 ## Featured Projects  
 
 - **[Lawgic Prep](https://www.lawgicprep.org)**: Developing a platform to gamify LSAT prep with React, TailwindCSS, Firebase, and React Native.  
@@ -27,15 +18,9 @@ CS & Math @ IUB | Math Cancer Lab Researcher | Fintech IU Director of Technology
 
 ## Research & Experience  
 
-- **Math Cancer Lab**: Contributing to an open-source cell modeling project, optimizing simulations in Python and C++. 
-- **IU Advising Data Team**: Leveraged Python, Tableau, and Excel to boost advising engagement by over 100%.  
+- **Math Cancer Lab**: Contributing to an open-source cell modeling project, optimizing diffusion equations to improve simulations in Python and C++. 
+- **IU Advising Data Team**: Leveraged Python, Tableau, and Excel to boost advising engagement by over 40%.  
 - **Fintech @ IU**: Teaching 265+ members CS concepts; built and deployed bots interfacing with trading APIs via Discord and GroupMe.  
-
----
-
-## What Drives Me  
-
-I love solving challenging problems, teaching others, and creating tools that make a tangible impact. Whether it’s optimizing simulations, building applications, or exploring the intersection of finance and technology, I’m always eager to learn and grow.  
 
 ---
 
