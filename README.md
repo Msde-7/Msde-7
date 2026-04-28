@@ -30,3 +30,5 @@ CS & Math @ IUB | Math Cancer Lab Researcher | Fintech IU Director of Technology
 - **Website**: [gabeshores.com](https://gabeshores.com)  
 - **LinkedIn**: [linkedin.com/in/gabriel-shores-379b81291](https://linkedin.com/in/gabriel-shores-379b81291)  
 - **GitHub**: [github.com/Msde-7](https://github.com/Msde-7)  
+
+<img width="461" height="461" alt="msde_diffusion" src="https://github.com/user-attachments/assets/b4708901-461f-4f99-96fe-bf07d25b0abd" />
