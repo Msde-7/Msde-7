@@ -5,6 +5,7 @@ Hi there! Here you can find some of the random side-projects I've been working o
 
 **Currently:**
 
+- Incoming @ IMC Trading
 - studying CS & Math @ Indiana University
 - building [Lawgic Prep](https://lawgicprep.org)
 
